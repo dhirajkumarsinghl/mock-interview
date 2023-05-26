@@ -1,0 +1,32 @@
+* {
+  padding: 0;
+  box-sizing: border-box;
+  margin: 5px;
+  background-color: cornsilk;
+}
+.container {
+  background-color: wheat;
+  width: 60rem;
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.box1 {
+  text-align: center;
+  background-color: rgb(181, 45, 39);
+  width: 15rem;
+}
+.box-button {
+  width: 220px;
+  height: 30px;
+}
+.title {
+  background-color: aliceblue;
+}
+.box1 p {
+  padding: 15px 0px;
+  border-bottom: 1px solid black;
+  background-color: seagreen;
+}
